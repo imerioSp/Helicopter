@@ -1,0 +1,213 @@
+ul.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #000;
+}
+
+li.menu {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+ 	background-color: #111;
+}
+
+.active {
+ 	background-color: #4CAF50;
+}
+
+body {
+ 	background-color: lightgrey;
+}
+
+#titolo {
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1;
+	text-align: center;
+}
+
+div {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+h2 {
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1;
+	text-align: center;
+}
+
+h3 {
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1;
+	text-align: center;
+
+}
+
+h4 {
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1;
+	text-align: left;
+}
+#sfera_sx_img 
+{
+	 height: 30%;
+    width: 30%;
+    float: left;
+    border: 1px solid #000;
+	 display:block;
+}
+#sfera_cx_img 
+{
+	 height: 30%;
+    width: 30%;
+    float: center;
+	 display:block;
+    border: 1px solid #000;
+}
+#sfera_dx_img 
+{
+	 height: 30%;
+    width: 30%;
+    float: right;
+    border: 1px solid #000;
+	 display:block;
+}
+
+#tabellone_sx_img 
+{
+	 height: 45%;
+    width: 45%;
+    float: left;
+    margin-left: 1%;
+    border: 1px solid #000;
+	display:block;
+}
+
+#tabellone_dx_img
+{
+	 height: 45%;
+    width: 45%;
+    float: center;
+    margin-right: 1%;
+    border: 1px solid #000;
+	display:block;
+}
+
+#elicottero_sx_img
+{
+	height: 46%;
+    width: 46%;
+    float: left;
+    border: 1px solid #000;
+
+}
+
+#elicottero_dx_img
+{
+	height: 48%;
+    width: 48%;
+    float: center;
+    border: 1px solid #000;
+
+}
+
+#heliport_sx_img
+{
+	height: 48%;
+    width: 48%;
+    float: left;
+
+    border: 1px solid #000;
+}
+
+#heliport_dx_img
+{
+	height: 40%;
+    width: 40%;
+    float: center;
+
+    border: 1px solid #000;
+}
+
+#interni_sx_img 
+{
+	 height: 25%;
+    width: 25%;
+    float: left;
+    border: 1px solid #000;
+	 display:block;
+}
+#interni_cx_img 
+{
+	 height: 31%;
+    width: 31%;
+    float: center;
+	 display:block;
+    border: 1px solid #000;
+}
+#interni_dx_img 
+{
+	 height: 33%;
+    width: 33%;
+    float: right;
+    border: 1px solid #000;
+	 display:block;
+}
+
+#obj_img
+{
+	 height: 50%;
+    width: 50%;
+    float: center;
+    margin-left: 25%;    
+	 margin-right: 25%;
+    border: 1px solid #000;
+	 display:block;
+}
+#ombre_sx_img
+{
+	 height: 45%;
+    width: 45%;
+    float: left;
+    border: 1px solid #000;
+	 display:block;
+}
+#ombre_dx_img
+{
+	 height: 45%;
+    width: 45%;
+    float: center;
+
+    border: 1px solid #000;
+	 display:block;
+}
+
