@@ -287,9 +287,7 @@ Modellando le singole mesh si sono imparate le basi dell'utilizzo di Blender e d
 <div>
 <center><b>
 Imerio Spagnuolo<br/>
-0000749394<br/>
-imerio.spagnuolo@studio.unibo.it<br>
-<a href="https://www.dropbox.com/s/5zrgf12b1rh4baa/spagnuolo.tar.gz?dl=0">Download</a></b><br/>
+imerio.spagnuolo@gmail.com</b><br/>
 </center>
 </div>
 </body>
